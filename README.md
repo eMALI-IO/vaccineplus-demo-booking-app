@@ -1,1 +1,0 @@
-# vaccineplus-demo-booking-app
